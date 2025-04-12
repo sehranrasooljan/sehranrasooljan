@@ -6,17 +6,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehranrasooljan" alt="sehranrasooljan" /></a> </p>
 
 <p align="left">
+  <a href="https://linkedin.com/in/sehran-rasool-jan" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Sehran" />
+  </a>
+</p>
+
+
+<p align="Right">
   <a href="https://twitter.com/mirxa_sehran" target="_blank">
     <img src="https://img.shields.io/badge/Follow_me_on_X-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Follow me on X" />
   </a>
 </p>
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/sehran-rasool-jan" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Sehran" />
-  </a>
-</p>
 
 
 - 🔭 I’m working as a **SOC Engineer at Tachyon Security**
