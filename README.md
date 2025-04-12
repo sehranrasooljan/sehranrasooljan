@@ -7,17 +7,17 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sehran-rasool-jan/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; background-color:#0077B5; color:white; padding:8px 12px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" style="vertical-align:middle; margin-right:8px;" />
+  <a href="https://www.linkedin.com/in/sehran-rasool-jan/" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 8px 14px; border-radius: 4px; font-family: sans-serif; font-weight: 600; margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" style="margin-right: 8px;">
       Connect on LinkedIn
     </span>
   </a>
 
-  <a href="https://twitter.com/mirxa_sehran" target="_blank" style="text-decoration:none; margin-left:10px;">
-    <span style="display:inline-block; background-color:#0077B5; color:white; padding:8px 12px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" style="vertical-align:middle; margin-right:8px;" />
-      Follow on X
+  <a href="https://twitter.com/mirxa_sehran" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 8px 14px; border-radius: 4px; font-family: sans-serif; font-weight: 600;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" style="margin-right: 8px;">
+      Follow me on X
     </span>
   </a>
 </p>
