@@ -7,9 +7,10 @@
 
 <p align="left">
   <a href="https://twitter.com/mirxa_sehran" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mirxa_sehran?logo=twitter&style=for-the-badge" alt="mirxa_sehran" />
+    <img src="https://img.shields.io/badge/Follow_me_on_X-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Follow me on X" />
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://linkedin.com/in/sehran-rasool-jan" target="_blank">
