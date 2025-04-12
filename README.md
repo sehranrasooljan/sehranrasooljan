@@ -135,4 +135,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&theme=radical&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehranrasooljan&layout=compact&theme=radical&hide_border=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sehranrasooljan" />
 
