@@ -7,12 +7,18 @@
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/sehran-rasool-jan" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sehran-rasool-jan/" target="_blank" style="text-decoration:none;">
+    <span style="display:inline-block; background-color:#0077B5; color:white; padding:8px 12px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" style="vertical-align:middle; margin-right:8px;" />
+      Connect on LinkedIn
+    </span>
   </a>
 
-  <a href="https://twitter.com/mirxa_sehran" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_me_on_X-0077B5?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter X" />
+  <a href="https://twitter.com/mirxa_sehran" target="_blank" style="text-decoration:none; margin-left:10px;">
+    <span style="display:inline-block; background-color:#0077B5; color:white; padding:8px 12px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" style="vertical-align:middle; margin-right:8px;" />
+      Follow on X
+    </span>
   </a>
 </p>
 
