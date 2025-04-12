@@ -122,8 +122,8 @@
   </a> <br> 
 <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="GitHub Stats" />
  <img src="https://streak-stats.demolab.com?user=sehranrasooljan&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehranrasooljan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 
