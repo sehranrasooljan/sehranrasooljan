@@ -116,16 +116,21 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/sehranrasooljan">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p>
-<br><br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehranrasooljan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.buymeacoffee.com/sehranrasooljan">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehranrasooljan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
