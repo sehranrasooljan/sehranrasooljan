@@ -113,9 +113,7 @@
 </p>
 
 </p>
-
-<h3 align="left">Support:</h3>
-
+s
 <h3 align="left">Support:</h3>
 
 <div align="left">
