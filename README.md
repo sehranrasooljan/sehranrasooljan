@@ -133,4 +133,6 @@
 </div>
 <img src="https://streak-stats.demolab.com?user=sehranrasooljan&theme=dark&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehranrasooljan&layout=compact&theme=radical&hide_border=true" />
+
 
