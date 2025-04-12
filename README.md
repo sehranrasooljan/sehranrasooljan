@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehranrasooljan" alt="sehranrasooljan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mirxa_sehran" target="blank"><img src="https://img.shields.io/twitter/follow/mirxa_sehran?logo=twitter&style=for-the-badge" alt="mirxa_sehran" /></a> </p>
+<p align="left"> <a https://www.linkedin.com/in/sehran-rasool-jan/" target="blank"><img src="https://img.shields.io/linkedin/Lets Connect on LinkedInlogo=linkedin&style=for-the-badge" alt="Sehran" /></a> </p>
+
 
 - 🔭 I’m working as a **SOC Engineer at Tachyon Security**
 
@@ -23,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/sehranrasooljan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sehranrasooljan" height="30" width="40" /></a>
 <a href="https://twitter.com/mirxa_sehran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirxa_sehran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sehran-rasool-jan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sehran-rasool-jan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sehran-rasool-jan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sehran-rasool-jan/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19538877/mirxa-sehran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19538877/mirxa-sehran" height="30" width="40" /></a>
 <a href="https://medium.com/@sehranrasooljan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sehranrasooljan" height="30" width="40" /></a>
 </p>
