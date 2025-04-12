@@ -122,18 +122,8 @@
   <a href="https://www.buymeacoffee.com/sehranrasooljan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
-</div>
 
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehranrasooljan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
-<img src="https://streak-stats.demolab.com?user=sehranrasooljan&theme=dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehranrasooljan&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sehranrasooljan" />
-
