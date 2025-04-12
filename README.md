@@ -8,11 +8,11 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/sehran-rasool-jan" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Sehran" />
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  
+
   <a href="https://twitter.com/mirxa_sehran" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_me_on_X-000000?logo=twitter&logoColor=white&style=for-the-badge" alt="Follow me on X" />
+    <img src="https://img.shields.io/badge/Follow_me_on_X-0077B5?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter X" />
   </a>
 </p>
 
