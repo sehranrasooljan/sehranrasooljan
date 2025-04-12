@@ -117,10 +117,11 @@
 <h3 align="left">Support:</h3>
 
 <div align="left">
-  <a href="https://www.buymeacoffee.com/sehranrasooljan">
+  <a href="https://www.buymeacoffee.com/sehranrasooljan"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a> <br>
-
+  </a> <br> 
+<br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=sehranrasooljan&show_icons=true&locale=en" alt="GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehranrasooljan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
